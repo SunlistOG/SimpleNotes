@@ -33,6 +33,6 @@ The available build version of the application:
 ## Special thanks
 
 In the end, I want to thank Thomas Brown for a great C# course: 
-[C# Programming Crash Course](https://www.udemy.com/course/c-programming-crash-course/")
+[C# Programming Crash Course](https://www.udemy.com/course/c-programming-crash-course/)
 
 Thank you, Thomas! :sunglasses::blush::smiley:
