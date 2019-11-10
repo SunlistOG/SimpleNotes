@@ -27,7 +27,7 @@ The application is built with tools such as:
 The available build version of the application:
 
 - `[assembly: AssemblyVersion("1.0.0.0")]`
-- `[assembly: AssemblyFileVersion("1.0.0.")]`
+- `[assembly: AssemblyFileVersion("1.0.0.0")]`
 
 
 ## Special thanks
